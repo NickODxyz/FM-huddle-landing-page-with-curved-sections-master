@@ -1,5 +1,7 @@
 <h1 align="center">Frontend Mentor - Huddle Landing Page with Curved Sections Solution</h1>
 
+<h1 align="center">Unfinished</h1>
+
 ![Screen grab](https://github.com/NickODxyz/FM-huddle-landing-page-with-curved-sections-master/blob/main/Preview1.JPG)
 ![Screen grab](https://github.com/NickODxyz/FM-huddle-landing-page-with-curved-sections-master/blob/main/Preview-ext-1.JPG)
 ![Screen grab](https://github.com/NickODxyz/FM-huddle-landing-page-with-curved-sections-master/blob/main/Preview-ext-2.JPG)

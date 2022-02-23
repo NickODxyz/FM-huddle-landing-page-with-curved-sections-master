@@ -29,7 +29,7 @@ This is a solution to the [Huddle landing page with curved sections challenge on
 
 ## Site links
 
-Hosted [Live Site]()
+Hosted [Live Site](https://nickodxyz.github.io/FM-huddle-landing-page-with-curved-sections-master/)
 
 Frontend Mentor [Solution Page]()
 

@@ -2,6 +2,8 @@
 
 <img src=".....?raw=true" ></img>
 
+![Screen grab](https://github.com/NickODxyz/FM-huddle-landing-page-with-curved-sections-master/blob/main/Preview.JPG)
+
 <br>
 
 ## Overview

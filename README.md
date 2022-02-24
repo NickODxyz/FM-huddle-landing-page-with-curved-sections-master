@@ -1,8 +1,10 @@
 <h1 align="center">Frontend Mentor - Huddle Landing Page with Curved Sections Solution</h1>
 
-![Screen grab](https://github.com/NickODxyz/FM-huddle-landing-page-with-curved-sections-master/blob/main/Preview1.JPG)
-![Screen grab](https://github.com/NickODxyz/FM-huddle-landing-page-with-curved-sections-master/blob/main/Preview-ext-1.JPG)
-![Screen grab](https://github.com/NickODxyz/FM-huddle-landing-page-with-curved-sections-master/blob/main/Preview-ext-2.JPG)
+![Screen grab](https://github.com/NickODxyz/FM-huddle-landing-page-with-curved-sections-master/blob/main/Preview2.JPG)
+![Screen grab](https://github.com/NickODxyz/FM-huddle-landing-page-with-curved-sections-master/blob/main/Preview-ext-12.JPG)
+![Screen grab](https://github.com/NickODxyz/FM-huddle-landing-page-with-curved-sections-master/blob/main/Preview-ext-22.JPG)
+![Screen grab](https://github.com/NickODxyz/FM-huddle-landing-page-with-curved-sections-master/blob/main/Preview-ext-32.JPG)
+![Screen grab](https://github.com/NickODxyz/FM-huddle-landing-page-with-curved-sections-master/blob/main/Preview-ext-42.JPG)
 
 <br>
 
@@ -14,7 +16,7 @@ This is a solution to the [Huddle landing page with curved sections challenge on
 
 ## What I learned
 
-***LEARNED HERE***
+Background-image positioning. I've finally mastered it and got my head around it more to the point :) I now believe I'll have no more trouble and think I've found the bes solution for all future projects.
 
 <br>
 
@@ -39,8 +41,6 @@ Frontend Mentor [Solution Page]()
 ## Useful resources
 
 [Figma](https://www.figma.com)
-
-[CSS-Tricks - GRID](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 [w3schools](https://www.w3schools.com/)
 

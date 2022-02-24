@@ -34,7 +34,7 @@ Background-image positioning. I've finally mastered it and got my head around it
 
 Hosted [Live Site](https://nickodxyz.github.io/FM-huddle-landing-page-with-curved-sections-master/)
 
-Frontend Mentor [Solution Page]()
+Frontend Mentor [Solution Page](https://www.frontendmentor.io/solutions/huddle-landing-page-with-curved-sections-grid-flexbox-djqaM3SmV)
 
 <br>
 

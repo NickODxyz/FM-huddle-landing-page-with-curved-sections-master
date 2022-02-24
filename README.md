@@ -1,10 +1,10 @@
 <h1 align="center">Frontend Mentor - Huddle Landing Page with Curved Sections Solution</h1>
 
-![Screen grab](https://github.com/NickODxyz/FM-huddle-landing-page-with-curved-sections-master/blob/main/Preview2.JPG)
-![Screen grab](https://github.com/NickODxyz/FM-huddle-landing-page-with-curved-sections-master/blob/main/Preview-ext-12.JPG)
-![Screen grab](https://github.com/NickODxyz/FM-huddle-landing-page-with-curved-sections-master/blob/main/Preview-ext-22.JPG)
-![Screen grab](https://github.com/NickODxyz/FM-huddle-landing-page-with-curved-sections-master/blob/main/Preview-ext-32.JPG)
-![Screen grab](https://github.com/NickODxyz/FM-huddle-landing-page-with-curved-sections-master/blob/main/Preview-ext-42.JPG)
+![Screen grab](https://github.com/NickODxyz/FM-huddle-landing-page-with-curved-sections-master/blob/main/Preview.JPG)
+![Screen grab](https://github.com/NickODxyz/FM-huddle-landing-page-with-curved-sections-master/blob/main/Preview-ext-1.JPG)
+![Screen grab](https://github.com/NickODxyz/FM-huddle-landing-page-with-curved-sections-master/blob/main/Preview-ext-2.JPG)
+![Screen grab](https://github.com/NickODxyz/FM-huddle-landing-page-with-curved-sections-master/blob/main/Preview-ext-3.JPG)
+![Screen grab](https://github.com/NickODxyz/FM-huddle-landing-page-with-curved-sections-master/blob/main/Preview-ext-4.JPG)
 
 <br>
 

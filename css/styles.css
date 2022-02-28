@@ -647,7 +647,7 @@ Socials Section
     ---------------*/
     .footer__container {
         text-align: left;
-        padding: 8rem 0 10.3rem 12rem;
+        padding: 10rem 0 10.3rem 12rem;
         flex-direction: row-reverse;
         gap: 34rem;
     }
